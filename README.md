@@ -1,3 +1,5 @@
+RecipyGui was merged into [recipy](https://github.com/recipy/recipy) on August 16, 2015. This repository is kept for sentimental reasons.
+
 # RecipyGui
 
 This repository is now defunct - the code from here has been merged into https://github.com/recipy/recipy.
