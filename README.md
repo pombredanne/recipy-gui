@@ -1,17 +1,7 @@
 # RecipyGui
 
-A local webinterface to view and search runs stored by Recipy.
+This repository is now defunct - the code from here has been merged into https://github.com/recipy/recipy.
 
-## Installation
+If you're trying to run the recipy GUI then you should be able to just run `recipy gui` and it (should) all work!
 
-RecipyGui is a Flask application. To install all requirements:
-
-```pip install -r requirements.txt```
-
-## Usage
-
-To start the local webserver, run:
-
-```python recipy-gui.py```
-
-The GUI automatically opens in a new tab in the browser.
+This repository will be deleted shortly.
